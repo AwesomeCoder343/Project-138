@@ -1,0 +1,13 @@
+body
+{
+background-image:cover;
+}
+.header{
+    width: 100%;
+
+}
+.header button{
+    border: 1px white solid;
+    border-radius:15;
+    right:0;
+}
